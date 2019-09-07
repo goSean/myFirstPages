@@ -8,17 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>你好厉亚鑫，晚上加班吗？</h1>
-        {/* <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <p>
+          6点吗？那你下班之后我们去仙林？
+          <span role="img" aria-label="eyes">👀</span>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a> */}
       </header>
     </div>
   );
